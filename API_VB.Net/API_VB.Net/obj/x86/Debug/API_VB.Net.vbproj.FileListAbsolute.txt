@@ -1,0 +1,9 @@
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.Resources.resources
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.vbproj.GenerateResource.Cache
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\bin\Debug\API_VB.Net.exe
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\bin\Debug\API_VB.Net.pdb
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\bin\Debug\API_VB.Net.xml
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.Form1.resources
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.exe
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.xml
+C:\Users\Mochamad Isro Sidqi\documents\visual studio 2010\Projects\API_VB.Net\API_VB.Net\obj\x86\Debug\API_VB.Net.pdb
